@@ -3,7 +3,7 @@ void main()
 {
     int n,m,count=0,i,a,j,mul=1,sum=0;
     scanf("%d",&n);
-    m=n;
+   m=n;
     while(m!=0)
     {
         m=m/10;
